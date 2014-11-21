@@ -1,0 +1,12 @@
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
+ofxCv
+ofxFaceTracker
+ofxMSATimer
+ofxRange
+ofxTextInputField
+ofxTimecode
+ofxTimeline
+ofxTween
+ofxtweener

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>44C4B6E5-DA69-408D-9FEE-B89214C40ED6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>timelineTry2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>079871F9-C980-469C-8BBD-37F53E239812</key>
+		<string>https://github.com/crecord/blue-lips.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>apps/02_SoundMap/timelineTry2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>079871F9-C980-469C-8BBD-37F53E239812</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/crecord/blue-lips.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>079871F9-C980-469C-8BBD-37F53E239812</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>079871F9-C980-469C-8BBD-37F53E239812</string>
+			<key>IDESourceControlWCCName</key>
+			<string>blue-lips</string>
+		</dict>
+	</array>
+</dict>
+</plist>
